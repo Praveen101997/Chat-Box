@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chatter Box</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="chats_fragment">CHATS FRAGMENT</string>
+    <string name="contacts_fragment">Contacts_fragment</string>
+</resources>
