@@ -25,8 +25,9 @@ Java 8 or higher
 
 ### For execute Sample Preview
 
-1. Download Chatter Box 1.0.apk
-2. Install it into android.
+1. Download Chatter Box 1.0.zip
+2. Extact it.
+2. Install Chatter Box 1.0.apk or Chatter Box 1.00.apk into android.
 2. Register as a new User.
 3. Explore features.
 
